@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN STACK
 - 💞️ I’m looking to collaborate on web application development.
-- 📫 How to reach me instagram: a_mew_g
+- Reach me out oninstagram: a_mew_g
 
 <!---
 arunislive/arunislive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
