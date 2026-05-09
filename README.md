@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I’m Arun khanal.<br>Currently I'm learning Rust,<br>I’m interested in web development,<br>I use MERN as tech stack,<br>I am a web designer and good front end web developer,<br>I’m looking to collaborate on web application development,<br>You can reach me out on instagram: a_mew_g<br>Fun fact : I am textrovert.. and a comic addict
+Hi there, I’m Arun khanal.<br>Currently I'm learning Rust,<br>I’m interested in web and systems development<br>I use MERN as tech stack,<br>I am a web designer and good full stack web developer,<br>I’m looking to collaborate on web application development,<br>You can reach me out on instagram: a_mew_g<br>Fun fact : I am textrovert.. and a comic addict
 
 
 ## 🌐 Socials:
