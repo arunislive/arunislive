@@ -17,9 +17,7 @@ Hi there, I’m Arun khanal.<br>Currently I'm learning Rust,<br>I’m interested
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arunislive&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
